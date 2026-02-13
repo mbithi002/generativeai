@@ -1,0 +1,1 @@
+# colab note book https://colab.research.google.com/drive/1tRgR5QmK8uWS19GDj2vu2e7EBaMVL72w
